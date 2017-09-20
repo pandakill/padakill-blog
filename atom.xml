@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.padakill.com/"/>
-  <updated>2017-09-20T06:20:24.000Z</updated>
+  <updated>2017-09-20T14:31:38.000Z</updated>
   <id>http://blog.padakill.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://blog.padakill.com/2017/09/20/hello-world/"/>
     <id>http://blog.padakill.com/2017/09/20/hello-world/</id>
-    <published>2017-09-20T06:20:24.000Z</published>
-    <updated>2017-09-20T06:20:24.000Z</updated>
+    <published>2017-09-20T14:31:38.000Z</published>
+    <updated>2017-09-20T14:31:38.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
     
@@ -34,6 +34,39 @@
     
     </summary>
     
+      <category term="杂记" scheme="http://blog.padakill.com/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+      <category term="hello world" scheme="http://blog.padakill.com/tags/hello-world/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终于搭建好了博客</title>
+    <link href="http://blog.padakill.com/2017/09/20/%E7%BB%88%E4%BA%8E%E6%90%AD%E5%BB%BA%E5%A5%BD%E4%BA%86%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.padakill.com/2017/09/20/终于搭建好了博客/</id>
+    <published>2017-09-20T13:41:54.000Z</published>
+    <updated>2017-09-20T14:31:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="庆祝博客开张啦！！"><a href="#庆祝博客开张啦！！" class="headerlink" title="庆祝博客开张啦！！"></a>庆祝博客开张啦！！</h1><p>心心念念的博客，今天捣鼓了一个下午，终于在今晚 <code>21:43</code> 可以了，现在在试着写第一篇博客，纪念一下吧，进击的 <code>padakill</code> ！</p><p>说起博客，得从2015年底开始了，那时候就想着搭建一个博客，然后开始博客生涯，可惜本人太懒</p><h1 id="中毒，最后找到解药"><a href="#中毒，最后找到解药" class="headerlink" title="中毒，最后找到解药"></a>中毒，最后找到解药</h1><p>由于深中 Android material design 的毒，之前也有看过 MD 设计的博客，所以特别希望自己的博客也能做成 MD 风格。</p><blockquote><p>下午 17:20 ，在公司</p></blockquote><p>从 <a href="https://hexo.io/themes/" target="_blank" rel="external">hexo themes</a> 筛选并一个个的仔细查看样式。一开始使用的是 <a href="https://github.com/viosey/hexo-theme-material" target="_blank" rel="external">Material</a> ,<br>但是后面发现这个主题的首页还是有点不太喜欢呢，标题栏也只能是透明的，没法有一个置顶的标题栏。。临近下班，就没继续找了，就先用着吧~~</p><blockquote><p>晚上 21:39 ，在宿舍</p></blockquote><p>发现了另一个好看的，更加贴近 MD 风格的主题，<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">hexo-theme-indigo</a>，有置顶的导航栏~<br>可以收缩的抽屉~瀑布流~搜索按钮~水波纹！这就是我要的效果啊！马上更换主题~敲板！就是你了！</p><h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><p>接下来的日子，给今年的自己立 <code>flag</code> ：</p><ul><li>好好写博客，无论技术分享，还是心得体会</li><li>多做项目，轮子从实践中总结开发出来的</li><li>有空多看看 <code>weex</code> 框架，前端大法将一统江湖</li><li>有机会还是要造造轮子，让自己经历丰富起来</li><li>当然，要阅读完成二十本书</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;庆祝博客开张啦！！&quot;&gt;&lt;a href=&quot;#庆祝博客开张啦！！&quot; class=&quot;headerlink&quot; title=&quot;庆祝博客开张啦！！&quot;&gt;&lt;/a&gt;庆祝博客开张啦！！&lt;/h1&gt;&lt;p&gt;心心念念的博客，今天捣鼓了一个下午，终于在今晚 &lt;code&gt;21:43&lt;/code&gt;
+      
+    
+    </summary>
+    
+      <category term="杂记" scheme="http://blog.padakill.com/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="hello world" scheme="http://blog.padakill.com/categories/%E6%9D%82%E8%AE%B0/hello-world/"/>
+    
+    
+      <category term="搭建" scheme="http://blog.padakill.com/tags/%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="hexo" scheme="http://blog.padakill.com/tags/hexo/"/>
     
   </entry>
   
