@@ -290,6 +290,23 @@
 
 
 
+<section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'pandakill',
+            repo: 'padakill-blog-comment',
+            oauth: {
+                client_id: 'ea32378bd7727a7a43ff',
+                client_secret: 'bc4049c94671df69efdaa8a806b20d3388f1c21d',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
+
 
 
 
